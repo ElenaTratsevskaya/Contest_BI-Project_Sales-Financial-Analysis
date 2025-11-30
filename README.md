@@ -1,6 +1,13 @@
 # Contest_BI-Project_Sales-Financial-Analysis
 Fastboard Dashboards Contest, November 2025<br><br>
 
+<div id="header" align="center">
+<img src="https://static1.tgstat.ru/channels/_0/bf/bfd94805a0eb2354d13ffda8840a95ae.jpg" title="Fastboard" width="40" height="40"/>&nbsp;
+<img src="https://camo.githubusercontent.com/9af53a29f1bd08dd178c1edf658af273eff86455fc7fda498d8565916c0b7da7/68747470733a2f2f6769746c61622e636f6d2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f33303932323530382f63682d6c6f676f2d77686974652e706e67" title="ClickHouse" width="40" height="40"/>&nbsp;
+<img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="figma" width="40" height="40"/>&nbsp;
+</div>
+<br>
+
 Организатор конкурса разработчик отечественной BI-системы Fastboard. Конкурс проходил с 6-27 ноября 2025 года и включал в себя освоение материалов курсса "Fastboard: BI без сложностей" на Stepik.<br>
 Я успешно прошла курс, получила [сертификат](https://disk.yandex.ru/i/LhjkaC2Flgyo_Q )<br>
 и включилась в соревнование.<br>
